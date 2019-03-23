@@ -11,7 +11,7 @@ int ledPin10 = 14;  // = A0
 int ledPin11 = 15;  // = A1
 int ledPin12 = 16;  // = A2
 int kurk = 0;       // ledState heet nu kurk en bijbehorende LOW is vervangen door 0.
-int t200 = 180;     // om delay te veranderen , er hadden eigenlijk ook een t250 en t500 en t100 moeten zijn maar helaas,dat is nu te laat
+int t200 = 180;     // om delay te veranderen
 
 
 void setup() {     
